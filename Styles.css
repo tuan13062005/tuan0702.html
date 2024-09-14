@@ -1,0 +1,27 @@
+/* Định dạng font chữ cho toàn bộ trang */
+body {
+    font-family: "Times New Roman", serif;
+    font-size: 14pt;
+    margin: 20px;
+}
+
+/* Định dạng tiêu đề */
+h1 {
+    font-size: 18pt; 
+}
+
+/* Định dạng cho hình ảnh trong bảng */
+img {
+    height: 50px;
+}
+
+/* Định dạng bảng */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
